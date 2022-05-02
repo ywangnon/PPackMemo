@@ -1,0 +1,43 @@
+PODS:
+  - Hero (1.6.1)
+  - lottie-ios (3.3.0)
+  - Realm (10.13.0):
+    - Realm/Headers (= 10.13.0)
+  - Realm/Headers (10.13.0)
+  - RealmSwift (10.13.0):
+    - Realm (= 10.13.0)
+  - SnapKit (5.0.1)
+  - Then (2.7.0)
+  - ViewAnimator (3.1.0)
+
+DEPENDENCIES:
+  - Hero
+  - lottie-ios
+  - Realm
+  - RealmSwift
+  - SnapKit
+  - Then
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - lottie-ios
+    - Realm
+    - RealmSwift
+    - SnapKit
+    - Then
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  Realm: e3a1225aafa7cec96a020dc199201b9d1f9cd59c
+  RealmSwift: 62585b4a934754a9d9117331689f4e8a5b1f6113
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+  ViewAnimator: a9ceed80266e00fd435ec4fb99b2df64d580d0e4
+
+PODFILE CHECKSUM: db2f9d7e4151d9b7f9f3a5715b719fece78ded63
+
+COCOAPODS: 1.11.2
