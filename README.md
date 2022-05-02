@@ -6,7 +6,7 @@
 
 - 기술스택 : Swift, UIKit, No StoryBoard, MVVM, Realm
 
-<center><img src="MarkDownImage/Simulator.gif" height="500" /></center>
+<p align="center"><img src="MarkDownImage/Simulator.gif" height="500" /></center>
 
 ## 과제
 
@@ -42,5 +42,3 @@
 
 
 - 위 요건들 포함 추가 기능 및 화면 자유롭게 추가가능
-
-# PPackMemo
