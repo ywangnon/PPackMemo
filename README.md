@@ -2,7 +2,7 @@
 
 
 
-**빡코딩콘 출품작**
+**[빡코딩콘](https://spangle-wedelia-2dc.notion.site/1-90fa4be2b51a4dad8a37df72bfc466d4) 출품작**
 
 - 기술스택 : Swift, UIKit, No StoryBoard, MVVM, Realm
 
